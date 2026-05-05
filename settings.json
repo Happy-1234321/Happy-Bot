@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
-    "username": "HappyBOT",
+    "username": "Happy1234BOT_",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Happy2323.aternos.me",
     "port": 21388,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
         "Subscribe To Happy1234 and Frwostty!"
       ]
@@ -42,7 +42,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
